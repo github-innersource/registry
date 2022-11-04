@@ -129,6 +129,8 @@
             "compliant": false
         }
     ],
-    "dependabot_alert_check": [],
+    "dependabot_alert_check": [
+        "TBD"
+    ],
     "health": 44
 }
