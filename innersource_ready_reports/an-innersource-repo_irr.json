@@ -24,7 +24,7 @@
         },
         "full_name": "github-innersource/an-innersource-repo"
     },
-    "description": "Report for Innersource compliance.\nTo re-run this report use the `slash command` \n\n ```\n /check \n```\n\n",
+    "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/check`\n\n",
     "license": {
         "name": "ISC License",
         "key": "isc",
