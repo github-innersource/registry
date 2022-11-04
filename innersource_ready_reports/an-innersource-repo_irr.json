@@ -130,7 +130,7 @@
         }
     ],
     "dependabot_alert_check": [
-        "TBD"
+        "{ \"name\": TBD }"
     ],
     "health": 44
 }
