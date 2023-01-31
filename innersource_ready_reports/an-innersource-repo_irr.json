@@ -47,6 +47,18 @@
         {
             "name": "README.md",
             "compliant": true
+        },
+        {
+            "name": "CITATION.md",
+            "compliant": false
+        },
+        {
+            "name": "SUPPORT.md",
+            "compliant": false
+        },
+        {
+            "name": "SECURITY.md",
+            "compliant": false
         }
     ],
     "branch_protection": [
@@ -132,5 +144,5 @@
     "dependabot_alert_check": [
         "{ \"name\": TBD }"
     ],
-    "health": 44
+    "health": 38
 }
