@@ -1,6 +1,6 @@
 {
     "meta": {
-        "report_date": "Wed Feb 01 2023 12:45:39 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Wed Feb 01 2023 12:48:36 GMT-0500 (Eastern Standard Time)",
         "fork": false,
         "org": "github-innersource",
         "repo": "an-innersource-repo",
@@ -26,6 +26,7 @@
         },
         "full_name": "github-innersource/an-innersource-repo",
         "languages": {
+            "JavaScript": 22,
             "Shell": 13
         }
     },
