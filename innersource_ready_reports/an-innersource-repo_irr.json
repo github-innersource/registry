@@ -1,6 +1,6 @@
 {
     "meta": {
-        "report_date": "Wed Feb 01 2023 17:33:39 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Wed Feb 01 2023 17:51:27 GMT-0500 (Eastern Standard Time)",
         "fork": false,
         "org": "github-innersource",
         "repo": "an-innersource-repo",
@@ -148,7 +148,30 @@
         }
     ],
     "dependabot_alert_check": [
-        "{ \"name\": TBD }"
+        {
+            "package": "jquery",
+            "severity": "MODERATE",
+            "classification": "GENERAL",
+            "summary": "Cross-Site Scripting (XSS) in jquery"
+        },
+        {
+            "package": "jquery",
+            "severity": "MODERATE",
+            "classification": "GENERAL",
+            "summary": "XSS in jQuery as used in Drupal, Backdrop CMS, and other products"
+        },
+        {
+            "package": "jquery",
+            "severity": "MODERATE",
+            "classification": "GENERAL",
+            "summary": "Potential XSS vulnerability in jQuery"
+        },
+        {
+            "package": "jquery",
+            "severity": "MODERATE",
+            "classification": "GENERAL",
+            "summary": "Potential XSS vulnerability in jQuery"
+        }
     ],
     "health": 19
 }
