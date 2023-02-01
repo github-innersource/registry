@@ -1,6 +1,6 @@
 {
     "meta": {
-        "report_date": "Wed Feb 01 2023 10:57:41 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Wed Feb 01 2023 11:01:04 GMT-0500 (Eastern Standard Time)",
         "fork": false,
         "org": "github-innersource",
         "repo": "full-stack-portal",
@@ -27,7 +27,12 @@
         "full_name": "github-innersource/full-stack-portal"
     },
     "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/check`\n\n",
-    "license": {},
+    "license": {
+        "name": "none",
+        "key": "none",
+        "spdx_id": "none",
+        "compliant": false
+    },
     "files": [
         {
             "name": "CODE_OF_CONDUCT.md",
@@ -141,5 +146,5 @@
     "dependabot_alert_check": [
         "{ \"name\": TBD }"
     ],
-    "health": 5
+    "health": 4
 }
