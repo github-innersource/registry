@@ -1,6 +1,7 @@
 {
     "meta": {
-        "report_date": "Wed Feb 01 2023 09:13:01 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Wed Feb 01 2023 09:19:28 GMT-0500 (Eastern Standard Time)",
+        "fork": true,
         "org": "github-innersource",
         "repo": "iss-fork-test",
         "owner": {
