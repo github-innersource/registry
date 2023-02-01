@@ -1,0 +1,28 @@
+{
+    "meta": {
+        "org": "github-innersource",
+        "repo": "iss-fork-test",
+        "owner": {
+            "login": "github-innersource",
+            "id": 110191229,
+            "node_id": "O_kgDOBpFifQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/110191229?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-innersource",
+            "html_url": "https://github.com/github-innersource",
+            "followers_url": "https://api.github.com/users/github-innersource/followers",
+            "following_url": "https://api.github.com/users/github-innersource/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-innersource/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-innersource/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-innersource/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-innersource/orgs",
+            "repos_url": "https://api.github.com/users/github-innersource/repos",
+            "events_url": "https://api.github.com/users/github-innersource/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-innersource/received_events",
+            "type": "Organization",
+            "site_admin": false
+        },
+        "full_name": "github-innersource/iss-fork-test"
+    },
+    "description": "This repository is a fork. Innersource 'promotion' cancelled, Forks cannot be InnerSource'd!"
+}
