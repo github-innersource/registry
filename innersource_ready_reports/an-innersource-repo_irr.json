@@ -1,6 +1,6 @@
 {
     "meta": {
-        "report_date": "Wed Feb 01 2023 10:45:13 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Wed Feb 01 2023 10:57:04 GMT-0500 (Eastern Standard Time)",
         "fork": false,
         "org": "github-innersource",
         "repo": "an-innersource-repo",
@@ -74,7 +74,7 @@
             "name": "allowsForcePushes",
             "value": false,
             "expected": false,
-            "compliant": true
+            "compliant": false
         },
         {
             "name": "isAdminEnforced",
@@ -84,21 +84,21 @@
         },
         {
             "name": "requiresApprovingReviews",
-            "value": true,
+            "value": false,
             "expected": true,
-            "compliant": true
+            "compliant": false
         },
         {
             "name": "requiredApprovingReviewCount",
-            "value": 3,
+            "value": false,
             "expected": 2,
             "compliant": false
         },
         {
             "name": "requiresCodeOwnerReviews",
-            "value": true,
+            "value": false,
             "expected": true,
-            "compliant": true
+            "compliant": false
         },
         {
             "name": "requiresCommitSignatures",
@@ -126,9 +126,9 @@
         },
         {
             "name": "requiresStrictStatusChecks",
-            "value": true,
+            "value": false,
             "expected": true,
-            "compliant": true
+            "compliant": false
         },
         {
             "name": "restrictsPushes",
@@ -146,5 +146,5 @@
     "dependabot_alert_check": [
         "{ \"name\": TBD }"
     ],
-    "health": 38
+    "health": 19
 }
