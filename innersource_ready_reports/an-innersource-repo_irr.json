@@ -1,6 +1,6 @@
 {
     "meta": {
-        "report_date": "Wed Feb 01 2023 12:31:59 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Wed Feb 01 2023 12:33:33 GMT-0500 (Eastern Standard Time)",
         "fork": false,
         "org": "github-innersource",
         "repo": "an-innersource-repo",
@@ -25,7 +25,7 @@
             "site_admin": false
         },
         "full_name": "github-innersource/an-innersource-repo",
-        "languages": "{\n  status: 200,\n  url: 'https://api.github.com/repos/github-innersource/an-innersource-repo/languages',\n  headers: {\n    'access-control-allow-origin': '*',\n    'access-control-expose-headers': 'ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset',\n    'cache-control': 'private, max-age=60, s-maxage=60',\n    connection: 'close',\n    'content-length': '2',\n    'content-security-policy': \"default-src 'none'\",\n    'content-type': 'application/json; charset=utf-8',\n    date: 'Wed, 01 Feb 2023 17:32:00 GMT',\n    etag: '\"c4ef0c56be10231c503ddf784fff1eea0113c993d47ee2a0dff2b82e1d9301d4\"',\n    'last-modified': 'Wed, 01 Feb 2023 14:26:00 GMT',\n    'referrer-policy': 'origin-when-cross-origin, strict-origin-when-cross-origin',\n    server: 'GitHub.com',\n    'strict-transport-security': 'max-age=31536000; includeSubdomains; preload',\n    vary: 'Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With',\n    'x-content-type-options': 'nosniff',\n    'x-frame-options': 'deny',\n    'x-github-api-version-selected': '2022-11-28',\n    'x-github-media-type': 'github.v3; format=json',\n    'x-github-request-id': 'D6FF:39FC:11F7F6:24E17D:63DAA20F',\n    'x-ratelimit-limit': '15000',\n    'x-ratelimit-remaining': '14998',\n    'x-ratelimit-reset': '1675276293',\n    'x-ratelimit-resource': 'core',\n    'x-ratelimit-used': '2',\n    'x-xss-protection': '0'\n  },\n  data: {}\n}"
+        "languages": "{}"
     },
     "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/check`\n\n",
     "license": {
