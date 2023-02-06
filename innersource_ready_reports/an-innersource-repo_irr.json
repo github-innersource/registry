@@ -1,7 +1,9 @@
 {
     "meta": {
-        "report_date": "Mon Feb 06 2023 11:00:23 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Mon Feb 06 2023 14:27:22 GMT-0500 (Eastern Standard Time)",
         "fork": false,
+        "stargazers_count": 0,
+        "open_issues_count": 1,
         "org": "github-innersource",
         "repo": "an-innersource-repo",
         "owner": {
@@ -178,7 +180,7 @@
         }
     ],
     "status": {
-        "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed section.",
+        "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed sections.",
         "modular_health": 48,
         "group_health": 50
     }
