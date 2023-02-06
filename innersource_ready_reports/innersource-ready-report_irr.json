@@ -1,0 +1,159 @@
+{
+    "meta": {
+        "report_date": "Sun Feb 05 2023 21:19:25 GMT-0500 (Eastern Standard Time)",
+        "fork": false,
+        "org": "github-innersource",
+        "repo": "innersource-ready-report",
+        "owner": {
+            "login": "github-innersource",
+            "id": 110191229,
+            "node_id": "O_kgDOBpFifQ",
+            "avatar_url": "https://avatars.githubusercontent.com/u/110191229?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-innersource",
+            "html_url": "https://github.com/github-innersource",
+            "followers_url": "https://api.github.com/users/github-innersource/followers",
+            "following_url": "https://api.github.com/users/github-innersource/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-innersource/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-innersource/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-innersource/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-innersource/orgs",
+            "repos_url": "https://api.github.com/users/github-innersource/repos",
+            "events_url": "https://api.github.com/users/github-innersource/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-innersource/received_events",
+            "type": "Organization",
+            "site_admin": false
+        },
+        "full_name": "github-innersource/innersource-ready-report",
+        "languages": {
+            "JavaScript": 24209,
+            "Handlebars": 1599,
+            "Shell": 763,
+            "HTML": 377,
+            "Dockerfile": 188
+        }
+    },
+    "description": "Report for Innersource compliance.\nTo re-run this report use the **slash command:** `/check`\n\n",
+    "license": {
+        "name": "MIT License",
+        "key": "mit",
+        "spdx_id": "MIT",
+        "compliant": true
+    },
+    "files": [
+        {
+            "name": "CODE_OF_CONDUCT.md",
+            "compliant": true
+        },
+        {
+            "name": "CODEOWNERS",
+            "compliant": false
+        },
+        {
+            "name": "CONTRIBUTING.md",
+            "compliant": true
+        },
+        {
+            "name": "README.md",
+            "compliant": true
+        },
+        {
+            "name": "CITATION.md",
+            "compliant": false
+        },
+        {
+            "name": "SUPPORT.md",
+            "compliant": false
+        },
+        {
+            "name": "SECURITY.md",
+            "compliant": false
+        }
+    ],
+    "branch_protection": [
+        {
+            "name": "allowsDeletions",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "allowsForcePushes",
+            "value": false,
+            "expected": false,
+            "compliant": false
+        },
+        {
+            "name": "isAdminEnforced",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresApprovingReviews",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiredApprovingReviewCount",
+            "value": false,
+            "expected": 2,
+            "compliant": false
+        },
+        {
+            "name": "requiresCodeOwnerReviews",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresCommitSignatures",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresConversationResolution",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresLinearHistory",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresStatusChecks",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "requiresStrictStatusChecks",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "restrictsPushes",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        },
+        {
+            "name": "restrictsReviewDismissals",
+            "value": false,
+            "expected": true,
+            "compliant": false
+        }
+    ],
+    "dependabot_alert_check": [],
+    "status": {
+        "description": "The 'modular_health' of the repository is a percentage of the compliance checks that passed.",
+        "modular_health": 19,
+        "group_health": 0
+    }
+}
