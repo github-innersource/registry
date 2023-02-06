@@ -1,6 +1,6 @@
 {
     "meta": {
-        "report_date": "Mon Feb 06 2023 10:37:34 GMT-0500 (Eastern Standard Time)",
+        "report_date": "Mon Feb 06 2023 10:53:46 GMT-0500 (Eastern Standard Time)",
         "fork": false,
         "org": "github-innersource",
         "repo": "an-innersource-repo",
@@ -180,6 +180,6 @@
     "status": {
         "description": "The 'modular_health' of the repository is a percentage of the compliance checks that passed.",
         "modular_health": 48,
-        "group_health": 0
+        "group_health": 100
     }
 }
