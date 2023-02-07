@@ -1,4 +1,5 @@
-{
+[
+    {
     "name": "an-innersource-repo",
     "description": null,
     "stars": 0,
@@ -7,4 +8,5 @@
     "compatible": false,
     "percentage": 48,
     "url": "https://github.com/github-innersource/an-innersource-repo"
-}
+    }
+]
