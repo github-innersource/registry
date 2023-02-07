@@ -1,8 +1,10 @@
 {
-    "Name": "an-innersource-repo",
-    "Description": null,
+    "name": "an-innersource-repo",
+    "description": null,
     "stars": 0,
     "forked": 0,
     "issues": 1,
+    "compatible": false,
+    "percentage": 48,
     "url": "https://github.com/github-innersource/an-innersource-repo"
 }
