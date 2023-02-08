@@ -1,32 +1,32 @@
 [
     {
-    "name": "an-innersource-repo",
-    "description": null,
-    "stars": 0,
-    "forked": 0,
-    "issues": 1,
-    "compatible": false,
-    "percentage": 480000,
-    "url": "https://github.com/github-innersource/an-innersource-repo"
+        "name": "an-innersource-repo",
+        "description": null,
+        "stars": 0,
+        "forked": 0,
+        "issues": 1,
+        "compatible": false,
+        "percentage": 48,
+        "url": "https://github.com/github-innersource/an-innersource-repo"
     },
     {
-    "name": "test1",
-    "description": null,
-    "stars": 0,
-    "forked": 0,
-    "issues": 1,
-    "compatible": false,
-    "percentage": 48,
-    "url": "https://github.com/github-innersource/an-innersource-repo"
+        "name": "test1",
+        "description": null,
+        "stars": 0,
+        "forked": 0,
+        "issues": 1,
+        "compatible": false,
+        "percentage": 48,
+        "url": "https://github.com/github-innersource/an-innersource-repo"
     },
     {
-    "name": "test2",
-    "description": null,
-    "stars": 0,
-    "forked": 0,
-    "issues": 1,
-    "compatible": false,
-    "percentage": 48,
-    "url": "https://github.com/github-innersource/an-innersource-repo"
+        "name": "test2",
+        "description": null,
+        "stars": 0,
+        "forked": 0,
+        "issues": 1,
+        "compatible": false,
+        "percentage": 48,
+        "url": "https://github.com/github-innersource/an-innersource-repo"
     }
 ]
