@@ -1,6 +1,7 @@
 [
     {
         "name": "an-innersource-repo",
+        "org": "github-innersource",
         "description": null,
         "stars": 0,
         "forked": 0,
