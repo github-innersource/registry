@@ -38,5 +38,15 @@
         "compatible": false,
         "percentage": 38,
         "url": "https://github.com/github-innersource/innersource-ready-report"
+    },
+    {
+        "name": "innersource-ready-report",
+        "description": "A GitHub App to enable your Project for Innersource registration",
+        "stars": 0,
+        "forked": 0,
+        "issues": 2,
+        "compatible": false,
+        "percentage": 38,
+        "url": "https://github.com/github-innersource/innersource-ready-report"
     }
 ]
