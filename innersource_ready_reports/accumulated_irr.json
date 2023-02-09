@@ -16,7 +16,11 @@
         "forked": 0,
         "issues": 1,
         "compatible": false,
-        "percentage": 9,
+        "status": {
+            "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed sections.",
+            "modular_health": 9,
+            "group_health": 25
+        },
         "url": "https://github.com/github-innersource/test-exercise"
     }
 ]
