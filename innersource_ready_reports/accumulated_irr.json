@@ -78,5 +78,15 @@
         "compatible": false,
         "percentage": 38,
         "url": "https://github.com/github-innersource/innersource-ready-report"
+    },
+    {
+        "name": "test-exercise",
+        "description": null,
+        "stars": 0,
+        "forked": 0,
+        "issues": 1,
+        "compatible": false,
+        "percentage": 9,
+        "url": "https://github.com/github-innersource/test-exercise"
     }
 ]
