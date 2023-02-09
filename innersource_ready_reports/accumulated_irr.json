@@ -16,6 +16,7 @@
         "forked": 0,
         "issues": 1,
         "compatible": false,
+        "languages": {},
         "status": {
             "description": "The 'modular_health' is a percentage of all passing compliance checks. The group_health is the percentage of fully passed sections.",
             "modular_health": 9,
