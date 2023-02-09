@@ -8,5 +8,15 @@
         "compatible": false,
         "percentage": 48,
         "url": "https://github.com/github-innersource/an-innersource-repo"
+    },
+    {
+        "name": "test-exercise",
+        "description": null,
+        "stars": 0,
+        "forked": 0,
+        "issues": 1,
+        "compatible": false,
+        "percentage": 9,
+        "url": "https://github.com/github-innersource/test-exercise"
     }
 ]
