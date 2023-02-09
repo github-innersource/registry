@@ -68,5 +68,15 @@
         "compatible": false,
         "percentage": 9,
         "url": "https://github.com/github-innersource/test-exercise"
+    },
+    {
+        "name": "innersource-ready-report",
+        "description": "A GitHub App to enable your Project for Innersource registration",
+        "stars": 0,
+        "forked": 0,
+        "issues": 2,
+        "compatible": false,
+        "percentage": 38,
+        "url": "https://github.com/github-innersource/innersource-ready-report"
     }
 ]
